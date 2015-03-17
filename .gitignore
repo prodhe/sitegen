@@ -4,6 +4,7 @@
 [Bb]uild
 [Dd]ebug*/
 [Rr]elease*/
+output
 
 # Data files
 # [Dd]ata
@@ -32,6 +33,7 @@
 *.exe
 *.out
 *.app
+Main
 
 # OSX Crap
 [Tt]humbs.db

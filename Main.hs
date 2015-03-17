@@ -85,7 +85,7 @@ writeOutput template (Page (t, d) page) = do
 -- | Create an HTML menu based on loaded pages
 createMenu :: [Page] -> String
 createMenu [] = []
-createMenu ((Page ("index", _) _):ps) = "" ++ createMenu ps
+--createMenu ((Page ("index", _) _):ps) = "" ++ createMenu ps
 createMenu ((Page (t, _) _):ps) = "<li><a href=\"./" ++
                                  convertTitle t ++
                                  ".html\">" ++
