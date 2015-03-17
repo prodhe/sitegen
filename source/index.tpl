@@ -4,14 +4,14 @@
         <meta charset="utf-8" />
         <link rel="stylesheet" href="./style.css" type="text/css" />
         <title>
-            vty.se | [-TITLE-]
+            vty.se [-TITLE-]
         </title>
     </head>
     <body>
         <div id="world">
             <header>
-                <h1><a href="./index.html">Fria luften</a></h1>
-                <p>En sida om uteliv och mycket prylar</p>
+                <h1><a href="./index.html">vty.se</a></h1>
+                <p>Petters virtuella terminal</p>
             </header>
             <nav>
                 [-MENU-]
